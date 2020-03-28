@@ -26,7 +26,7 @@ SECRET_KEY = '))0cj$d&9+1iwx!!jw)p%h@mdhw5=9-kaa%ggwvpam@#r$4#34'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 LOGIN_REDIRECT_URL = '/'
